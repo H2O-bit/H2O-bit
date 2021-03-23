@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @H2O-bit
+- 👋 Hi, I’m @H2O-bit,i'm 16
 - 👀 I’m interested in Cs
 - 🌱 I’m currently learning calculus
 - 💞️ I’m looking to collaborate on nothing
