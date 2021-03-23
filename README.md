@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @H2O-bit,i'm 16
 - 👀 I’m interested in Cs,science,maths and biceps
-- 🌱 I’m currently learning calculus
+- 🌱 I’m currently learning calculus,Electrodynamics,Electrostatics and C + assembly to write bufferoverflows
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me (jk,you can't reach me)
 
